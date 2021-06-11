@@ -1,0 +1,47 @@
+img {
+    width: 300px;
+    height: 300px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 30px
+}
+
+h1 {
+    text-shadow: blue;
+    font-size: 30px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+}
+
+.line {
+    width: 200px;
+    height: 5px;
+    background-color: blanchedalmond;
+    margin-left: 450px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#about{
+    text-align: center;
+font-family: 'Staatliches', cursive;
+}
+#bio{
+    background-color: deepskyblue;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    text-align: right;
+    float: right;
+}
+a{
+   text-shadow: blue;
+ 
+}
+html{
+    scroll-behavior: smooth;
+}
